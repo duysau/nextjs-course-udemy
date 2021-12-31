@@ -1,11 +1,9 @@
-const AboutPage
- = () => {
+const AboutPage = () => {
   return (
     <div>
-      <h1>About Page!</h1>
+      <h1>The about page</h1>
     </div>
   )
 }
 
 export default AboutPage
-
